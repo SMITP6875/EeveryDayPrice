@@ -1,1 +1,1 @@
-# EeveryDayPrice
+# EveryDayPrice
